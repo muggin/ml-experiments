@@ -1,4 +1,4 @@
-# ml-experiments
+# ML Experiments
 Implementations in this respository are mostly based on papers and articles that I found online. 
 
 Algorithms were reproduced from scratch using basic Python libraries. The code was by no means optimized for performance as it was written for educational purposes.
